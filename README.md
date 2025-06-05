@@ -1,2 +1,2 @@
 # Data-Anlaysis
-Data visualization, Sentiment Analysis
+Data visualization, Sentiment Analysis, Geographic Analysis
